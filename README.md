@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](.product-preview-component-finished-challenge.png)
+![](./product-preview-component-finished-challenge.png)
 
 ### Links
 
 - Solution URL: https://github.com/branalex94/product-preview-card-component
-- Live Site URL:
+- Live Site URL: https://branalex94.github.io/product-preview-card-component/
 
 ## My process
 
