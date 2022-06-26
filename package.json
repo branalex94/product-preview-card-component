@@ -1,0 +1,17 @@
+{
+  "name": "product-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "Product preview card component",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server ",
+    "sass": "sass ./sass/styles.scss ./styles/index.css -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brandon Aray",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}
